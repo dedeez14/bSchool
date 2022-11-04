@@ -7,7 +7,7 @@
   white-space: nowrap;
   vertical-align: middle;
   @include user-select(none);
-  padding: 15px 45px;
+  padding: 5px 15px;
   font-weight: 500;
   font-size: 14px;
   line-height: 24px;
@@ -24,7 +24,7 @@
 }
 
 .btn-sm {
-  padding: 10px 20px;
+  padding: 1px 4px;
   font-weight: 400;
 }
 
